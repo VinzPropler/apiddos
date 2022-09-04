@@ -1,0 +1,15 @@
+[
+	{
+		"name": "SONIC-TCP",
+		"command": "screen -dmS python3 ./methods/SONIC-TCP.py [HOST] [PORT] [TIME] 5"
+		
+	},
+	{
+		"name": "SONIC-HOME",
+		"command": "screen -dmS python3 ./methods/SONIC-HOME.py [HOST] [PORT] [TIME] 5"
+	},
+	{
+		"name": "SONIC-HTTP",
+		"command": "screen -dmS python3 ./methods/SONIC-HTTP.py [HOST] [PORT] [TIME] 5"
+	}
+]
